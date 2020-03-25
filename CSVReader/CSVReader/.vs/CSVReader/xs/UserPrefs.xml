@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{24C48A80-D07C-47B5-8A15-28700BFD7538}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student.cs">
+    <Files>
+      <File FileName="Student.cs" Line="102" Column="10" />
+      <File FileName="Study.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSVReader" expanded="True">
+            <Node name="CSVReader" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="CSVReader" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSVReader PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
